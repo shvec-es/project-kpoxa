@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/project-vseti/static/css/main.6dea0f05.chunk.css",
+    "main.css": "/project-vseti/static/css/main.2f2dfe5a.chunk.css",
     "main.js": "/project-vseti/static/js/main.db4bd7f9.chunk.js",
     "main.js.map": "/project-vseti/static/js/main.db4bd7f9.chunk.js.map",
     "runtime-main.js": "/project-vseti/static/js/runtime-main.15c2175a.js",
@@ -8,13 +8,13 @@
     "static/js/2.8fc4bc9b.chunk.js": "/project-vseti/static/js/2.8fc4bc9b.chunk.js",
     "static/js/2.8fc4bc9b.chunk.js.map": "/project-vseti/static/js/2.8fc4bc9b.chunk.js.map",
     "index.html": "/project-vseti/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/project-vseti/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.2f2dfe5a.chunk.css.map": "/project-vseti/static/css/main.2f2dfe5a.chunk.css.map",
     "static/js/2.8fc4bc9b.chunk.js.LICENSE.txt": "/project-vseti/static/js/2.8fc4bc9b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.15c2175a.js",
     "static/js/2.8fc4bc9b.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
+    "static/css/main.2f2dfe5a.chunk.css",
     "static/js/main.db4bd7f9.chunk.js"
   ]
 }
