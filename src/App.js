@@ -1,10 +1,11 @@
+import Container from 'components/Container';
 import React from 'react';
 
 function App() {
   return (
-    <div>
-      <h1>Здесь будет наш проект!</h1>
-    </div>
+    <Container>
+      <h2>Здесь будет наш проект!</h2>
+    </Container>
   );
 }
 
